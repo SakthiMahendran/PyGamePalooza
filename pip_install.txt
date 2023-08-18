@@ -1,2 +1,0 @@
-pip install example_package 
-pip install example_package_2
